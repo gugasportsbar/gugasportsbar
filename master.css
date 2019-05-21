@@ -61,6 +61,7 @@ html {
     z-index: 10;
     color: #fbfbff;
     font-size: 3vw;
+    text-align: center;
   }
   @media screen and (max-width: 475px) {
     h2 {
